@@ -1,0 +1,26 @@
+ProgramLanguage:
+  - InstallPython: true # true or false
+    PythonConfig:
+      version: latest # latest or 3.9.0
+  - InstallNode: true # true or false
+    NodeConfig:
+      version: latest # latest or 14.15.0
+  - InstallJava: true # true or false
+    JavaConfig:
+      version: latest # latest or 15.0.1
+  - InstallGo: true # true or false
+    GoConfig:
+      version: latest # latest or 1.15.5
+DesktopProgram:
+  - InstallVSCode: true # true or false
+    VSCodeConfig:
+      version: latest # latest or 1.52.1
+  - InstallEdge: true # true or false
+    EdgeConfig:
+      version: latest # latest or 87.0.664.66
+  - InstallGit: true # true or false
+    GitConfig:
+      version: latest # latest or 2.29.2
+  - InstallDockerDesktop: true # true or false
+    DockerDesktopConfig:
+      version: latest # latest or 3.0.0
