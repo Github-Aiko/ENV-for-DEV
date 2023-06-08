@@ -1,2 +1,2 @@
 # ENV for DEV
- Envoiments for MacOS , Ubuntu and Windows
+ Envoiments for MacOS , Linux and Windows
